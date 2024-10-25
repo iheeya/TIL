@@ -1,7 +1,7 @@
 # 📝Today I Learned
 
 ## 📌React
-- [상태 관리]
+- [상태 관리](https://github.com/iheeya/TIL/tree/main/Rect/%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
 
 
 ## 🍔TypeScript
